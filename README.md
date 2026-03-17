@@ -47,6 +47,6 @@ It uses **speech recognition** and **text-to-speech (TTS)** libraries for intera
 
 
    📩 Contact
-📧 Email: ankitchauhan19902005@gmail.com
+📧 Email: ashutosh.shukla18503@gmail.com
 🌐 Portfolio: Your Portfolio
-🐙 GitHub: Ankit-tech175
+🐙 GitHub: ashutosh122-2
