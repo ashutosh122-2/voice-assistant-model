@@ -41,7 +41,7 @@ It uses **speech recognition** and **text-to-speech (TTS)** libraries for intera
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ankit-tech175/Personal-Voice-Assistant.git
+   git clone https://github.com/ashutosh122-2/voice-assistant-model
    cd Personal-Voice-Assistant
 
 
