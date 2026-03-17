@@ -36,8 +36,7 @@ It uses **speech recognition** and **text-to-speech (TTS)** libraries for intera
 
 ## 📸 Screenshot
 
-![Jarvis Output](https://github.com/Ankit-tech175/Personal-Voice-Assistant/blob/main/assets/demo.png?raw=true)
-
+![Jarvis Output](https://github.com/ashutosh122-2/voice-assistant-model/blob/main/output.jpeg)
 ## ⚙️ How to Run
 
 1. **Clone the repository**
